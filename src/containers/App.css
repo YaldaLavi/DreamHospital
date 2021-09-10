@@ -1,0 +1,20 @@
+
+
+@font-face {
+font-family: 'BYekan';
+font-style: normal;
+font-weight: normal;
+src: local('BYekan'), url('BYekan.woff') format('woff');
+}
+
+h1 {
+  font-family: 'BYekan';
+  font-weight: 200;
+  color: #0ccac4;
+}
+h2{
+font-family: 'BYekan';
+font-weight: 200;
+color: black;
+
+}
